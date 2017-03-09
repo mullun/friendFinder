@@ -6,7 +6,7 @@
 var friendArray = [
 {
 "name": "Houston",
-"photo": "../data/houston.jpg",
+"photo": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff7%2FDowntown_Houston_Skyline%253B_2009.jpg&f=1",
 "scores": [
 "5",
 "1",
@@ -22,7 +22,7 @@ var friendArray = [
 },
 {
 "name": "New York",
-"photo": "../data/newYork.jpg",
+"photo": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.qi6f7WMnE3Tkq1a3SS1GKgEsCo%26pid%3D15.1&f=1",
 "scores": [
 "4",
 "2",
@@ -38,7 +38,7 @@ var friendArray = [
 },
 {
 "name": "Seattle",
-"photo": "../data/seattle.jpg",
+"photo": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fjbphotographyllc.com%2Fwp-content%2Fuploads%2F2013%2F08%2FDowntown-Seattle.jpg&f=1",
 "scores": [
 "5",
 "2",
@@ -54,7 +54,7 @@ var friendArray = [
 },
 {
 "name": "Los Angeles",
-"photo": "../data/losAngeles.jpg",
+"photo": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F5%2F57%2FLA_Skyline_Mountains2.jpg&f=1",
 "scores": [
 "3",
 "3",
@@ -70,7 +70,7 @@ var friendArray = [
 },
 {
 "name": "Washington",
-"photo": "../data/washington.jpg",
+"photo": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fswling.com%2Fblog%2Fwp-content%2Fuploads%2F2015%2F04%2FWashington_Capitol-1024x680.jpg&f=1",
 "scores": [
 "4",
 "3",
@@ -86,7 +86,7 @@ var friendArray = [
 },
 {
 "name": "Chicago",
-"photo": "../data/chicago.jpg",
+"photo": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fdowntownchicagorealestate.com%2Fwp-content%2Fuploads%2F2012%2F12%2FiStock_000017229070Medium.jpg&f=1",
 "scores": [
 "4",
 "4",
@@ -102,7 +102,7 @@ var friendArray = [
 },
 {
 "name": "Miami",
-"photo": "../data/miami.jpg",
+"photo": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F47%2FCentral_Downtown_Miami_200811.jpg&f=1",
 "scores": [
 "3",
 "2",
@@ -118,7 +118,7 @@ var friendArray = [
 },
 {
 "name": "Atlanta",
-"photo": "../data/atlanta.jpg",
+"photo": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc4%2FAtlanta_Downtown_July_2010.JPG&f=1",
 "scores": [
 "5",
 "3",

@@ -32,6 +32,8 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 
 require("./app/routing/apiRoutes")(app);
 require("./app/routing/htmlRoutes")(app);
+// allows use of images from the server ...
+// app.use(express.static(__dirname + "/public"));
 
 // ==============================================================================
 // LISTENER
